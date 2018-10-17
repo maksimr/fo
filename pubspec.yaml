@@ -1,6 +1,6 @@
 name: fo
 description: Implementation of assoc, assocIn and getIn for dart
-version: 0.0.1
+version: 0.0.2
 author: Maksim Ryzhikov <email@example.com>
 homepage: https://github.com/maksimr/fo
 
