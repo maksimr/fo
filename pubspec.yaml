@@ -5,7 +5,7 @@ author: Maksim Ryzhikov <email@example.com>
 homepage: https://github.com/maksimr/fo
 
 environment:
-  sdk: '>=1.20.1 <2.0.0'
+  sdk: '>=1.20.0 <3.0.0'
 
 dev_dependencies:
-  test: ^0.12.0
+  test: '>=0.12.24+2 <0.13.0'
